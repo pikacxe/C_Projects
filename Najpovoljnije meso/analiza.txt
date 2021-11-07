@@ -1,0 +1,9 @@
+ 429.99 svinjetina NS
+ 649.99 junetina NS
+ 639.99 junetina BG
+ 389.99 svinjetina BG
+ 439.99 svinjetina NI
+ 639.75 junetina NI
+
+Najpovoljnija 'junetina' je:
+   639.75 junetina NI

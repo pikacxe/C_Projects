@@ -1,0 +1,9 @@
+C   12 nemetal
+H    1 nemetal
+O   16 nemetal
+Ca  40 metal
+S   32 nemetal
+Pb 207 metal
+
+
+Najtezi metal je olovo (Pb), atomska tezina je 207

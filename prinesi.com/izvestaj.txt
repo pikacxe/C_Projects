@@ -1,0 +1,11 @@
+4.3 Cremansa   italijanski
+3.9 Sekunda    italijanski
+4.5 Inimigos   americki
+4.7 LaCattura  italijanski
+4.4 FutureFood americki
+4.8 Eva        srpski
+4.3 Kokoda     srpski
+
+
+ Najbolje ocenjen italijanski restoran u gradu je:
+4.7 LaCattura  italijanski
